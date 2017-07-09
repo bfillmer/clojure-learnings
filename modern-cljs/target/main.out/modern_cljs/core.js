@@ -1,4 +1,4 @@
-// Compiled by ClojureScript 1.7.228 {}
+// Compiled by ClojureScript 1.9.473 {}
 goog.provide('modern_cljs.core');
 goog.require('cljs.core');
 cljs.core.enable_console_print_BANG_.call(null);
